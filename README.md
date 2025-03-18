@@ -48,12 +48,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/OsvaldoCruz2013/OsvaldoCruz2013/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Social Media</h2>
 
 ###
