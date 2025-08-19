@@ -5,14 +5,14 @@
   - I'm a BI Analyst<br>
   - Studying data engineering and AI at INFNET<br>
   - Kron digital work<br>
-  -Skills
-* Proficiency in SQL, Python, and Power BI;
-* Experience with ETL tools: SSIS, Apache Hop;
-* Data modeling;
-* Cloud platforms: Azure and GCP;
-* Creating pipelines and automating processes;
-* .net Student
-* Python with Data(pandas, numpy, matplotlib)
+  -Skills<br>
+* Proficiency in SQL, Python, and Power BI;<br>
+* Experience with ETL tools: SSIS, Apache Hop;<br>
+* Data modeling;<br>
+* Cloud platforms: Azure and GCP;<br>
+* Creating pipelines and automating processes;<br>
+* .net Student;<br>
+* Python with Data(pandas, numpy, matplotlib).
 
 </p>
 
