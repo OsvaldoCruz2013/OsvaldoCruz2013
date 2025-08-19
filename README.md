@@ -1,7 +1,20 @@
 <h2 align="left">About Me</h2>
 
 ###
-<p align="left">- I'm a BI Analyst<br>- Studying data engineering and AI at INFNET<br>- Kron digital work</p>
+<p align="left">
+  - I'm a BI Analyst<br>
+  - Studying data engineering and AI at INFNET<br>
+  - Kron digital work<br>
+  -Skills
+* Proficiency in SQL, Python, and Power BI;
+* Experience with ETL tools: SSIS, Apache Hop;
+* Data modeling;
+* Cloud platforms: Azure and GCP;
+* Creating pipelines and automating processes;
+* .net Student
+* Python with Data(pandas, numpy, matplotlib)
+
+</p>
 
 ###
 <h2 align="left">Techs</h2>
